@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Estudiante de Ingeniería en Informática",
     "email":"ilitteri@fi.uba.ar",
     "skypeid": "Your skypeid",
-    "roleDescription": "Me gustan los desafíos, y el aprendizaje continuo. En mi tiempo libre leo o juego videojuegos.",
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,16 +22,17 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Estoy cursando el segundo año de la carrera Ingeniería en Informática de la UBA, Facultad de Ingeniería. ",
+    "aboutme":"Estoy cursando el segundo año de la carrera Ingeniería en Informática de la UBA, Facultad de Ingeniería. Español es mi idoma nativo, hablo inglés fluido y alemán básico. Me gustan los desafíos, hacer deporte, aprender algo nuevo todos los días y leer en mi tiempo libre.",
     "address":"Buenos Aires, Argentina",
     "email1":"ivanlitteri@hotmail.com",
     "email2":"ilitteri@fi.uba.ar",
+    "number": "+54 9 11-44138660",
     "education":[
       {
         "UniversityName":"Universidad de Buenos Aires, Facultad de Ingenieria",
         "specialization":"Ingeniería en Informática",
         "MonthOfPassing":"",
-        "YearOfPassing":"2019-2025",
+        "YearOfPassing":"2019-Actual",
         "Achievements":"C.A.B.A."
       },
       {
