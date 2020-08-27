@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://ilitteri.github.io/",
     "name": "Ivan Litteri",
     "role": "Estudiante de Ingeniería en Informática",
-    "linkedinId":"Your LinkedIn Id",
+    "email":"ilitteri@fi.uba.ar",
     "skypeid": "Your skypeid",
     "roleDescription": "Me gustan los desafíos, y el aprendizaje continuo. En mi tiempo libre leo o juego videojuegos.",
     "socialLinks":[
@@ -22,10 +22,10 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"",
+    "aboutme":"Estoy cursando el segundo año de la carrera Ingeniería en Informática de la UBA, Facultad de Ingeniería. ",
     "address":"Buenos Aires, Argentina",
-    "email-1":"ivanlitteri@hotmail.com",
-    "email-2":"ilitteri@fi.uba.ar",
+    "email1":"ivanlitteri@hotmail.com",
+    "email2":"ilitteri@fi.uba.ar",
     "education":[
       {
         "UniversityName":"Universidad de Buenos Aires, Facultad de Ingenieria",
@@ -58,7 +58,7 @@ let resumeData = {
         "Achievements":""
       }
     ],
-    "skillsDescription":"Programming skills",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname": "Python"
@@ -80,7 +80,10 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
-      }
+      },
+      {
+        "skillname": "Photoshop"
+      },
     ],
     /*"portfolio":[
       {
