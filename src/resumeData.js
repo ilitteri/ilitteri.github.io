@@ -1,14 +1,14 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://ilitteri.github.io/",
     "name": "Ivan Litteri",
-    "role": "Frontend Developer and Data Scientist",
+    "role": "Estudiante de Ingeniería en Informática",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "Me gustan los desafíos, y el aprendizaje continuo. En mi tiempo libre leo o juego videojuegos.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/ivan-litteri-414a1418a/",
           "className":"fa fa-linkedin"
         },
         {
@@ -18,47 +18,60 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/ivanlitteri",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"",
     "address":"Buenos Aires, Argentina",
-    "website":"",
+    "email-1":"ivanlitteri@hotmail.com",
+    "email-2":"ilitteri@fi.uba.ar",
     "education":[
       {
         "UniversityName":"Universidad de Buenos Aires, Facultad de Ingenieria",
         "specialization":"Ingeniería en Informática",
         "MonthOfPassing":"",
-        "YearOfPassing":"2025",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2019-2025",
+        "Achievements":"C.A.B.A."
       },
       {
         "UniversityName":"I.M.P.A. T.R.Q.",
         "specialization":"Técnico Aviónico",
-        "MonthOfPassing":"Dic",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "MonthOfPassing":"",
+        "YearOfPassing":"2012-2018",
+        "Achievements":"Quilmes"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"INVAP",
+        "specialization":"Regulamiento de planos, mantenimiento y stock.",
+        "MonthOfLeaving":"Agosto - Diciembre",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Fuerza Aérrea Argentina",
+        "specialization":"Mantenimiento de dispositivos de aviónica.",
+        "MonthOfLeaving":"Marzo - Julio",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Programming skills",
     "skills":[
+      {
+        "skillname": "Python"
+      },
+      {
+        "skillname": "C"
+      },
+      {
+        "skillname": "JavaScript"
+      },
+      {
+        "skillname": "Django"
+      },
       {
         "skillname":"HTML5"
       },
@@ -69,7 +82,7 @@ let resumeData = {
         "skillname":"Reactjs"
       }
     ],
-    "portfolio":[
+    /*"portfolio":[
       {
         "name":"project1",
         "description":"mobileapp",
@@ -100,7 +113,7 @@ let resumeData = {
         "description":"This is a sample testimonial",
         "name":"Some technical guy"
       }
-    ]
+    ]*/
   }
   
   export default resumeData
